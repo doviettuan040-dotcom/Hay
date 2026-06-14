@@ -1,0 +1,144 @@
+{
+    "profile": {
+        "name": "㉿klnxpluanori",
+        "title": "Home | Me Profile",
+        "subtitle": "mã nguồn ngon",
+        "avatar": "https:\/\/pbs.twimg.com\/media\/Fn-ozYhXwAI0-xG.png"
+    },
+    "social_links": [
+        {
+            "name": "TikTok",
+            "url": "https:\/\/t.me\/LuanOri04",
+            "icon": "fa-brands fa-tiktok",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Telegram",
+            "url": "https:\/\/t.me\/LuanOri04",
+            "icon": "fa-brands fa-telegram",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Facebook",
+            "url": "https:\/\/fb.com\/LuanOri",
+            "icon": "fa-brands fa-facebook",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Discord",
+            "url": "https:\/\/t.me\/LuanOri",
+            "icon": "fa-brands fa-discord",
+            "color": "#3b82f6"
+        },
+        {
+            "name": "Telegram2",
+            "url": "https:\/\/t.me\/LuanOri04",
+            "icon": "fab fa-telegram",
+            "color": "#3b82f6"
+        }
+    ],
+    "navbar_cards": [
+        {
+            "title": "LuanOri",
+            "subtitle": "t.me",
+            "url": "https:\/\/t.me\/LuanOri04",
+            "icon": "fa-brands fa-telegram"
+        },
+        {
+            "title": "Account Access Login",
+            "subtitle": "Website",
+            "url": "https:\/\/access.luanori.space",
+            "icon": "fa-solid fa-link"
+        }
+    ],
+    "categories": {
+        "FILE": [
+            {
+                "title": "ANDROID APK PROXY",
+                "image": "https:\/\/i.postimg.cc\/DvMYx1JG\/IMG-20251219-195638-303.jpg",
+                "url": "https:\/\/t.me\/LuanOri04",
+                "badge": "New",
+                "badge_color": "#ff0000"
+            },
+            {
+                "title": "Download Certificate",
+                "image": "https:\/\/i.postimg.cc\/DvMYx1JG\/IMG-20251219-195638-303.jpg",
+                "url": "https:\/\/t.me\/LuanOri04",
+                "badge": "UPDATE",
+                "badge_color": "#22c55e"
+            }
+        ],
+        "Link Cài Trực Tiếp": [
+            {
+                "title": "TrollStore",
+                "image": "https:\/\/i.postimg.cc\/DvMYx1JG\/IMG-20251219-195638-303.jpg",
+                "url": "https:\/\/t.me\/LuanOri04",
+                "badge": "New",
+                "badge_color": "#22c55e"
+            }
+        ],
+        "Esign": [
+            {
+                "title": "Aramco Services Company",
+                "image": "https:\/\/i.postimg.cc\/DvMYx1JG\/IMG-20251219-195638-303.jpg",
+                "url": "https:\/\/t.me\/LuanOri04",
+                "badge": "NEW",
+                "badge_color": "#22c55e"
+            }
+        ],
+        "Ksign": [
+            {
+                "title": "Aramco Services Company",
+                "image": "https:\/\/i.postimg.cc\/DvMYx1JG\/IMG-20251219-195638-303.jpg",
+                "url": "https:\/\/t.me\/LuanOri04",
+                "badge": "NEW",
+                "badge_color": "#22c55e"
+            }
+        ]
+    },
+    "music": {
+        "playlist": [
+            "\/music\/camonem.mp3",
+            "\/music\/emthuacota.mp3",
+            "\/music\/henhonhungkhongyeu.mp3",
+            "\/music\/luytinh.mp3",
+            "\/music\/moloichoem.mp3",
+            "\/music\/phimbanguoi.mp3"
+        ],
+        "song_names": [
+            "Cảm Ơn Em (Style Huy PT Remix)",
+            "Em Thua Cô Ta Remix (Bản Chuẩn TikTok)",
+            "Hẹn Hò Nhưng Không Yêu (LD Remix)",
+            "Lụy Tình (Style Huy PT Remix)",
+            "Mở Lối Cho Em (Style Huy PT Remix)",
+            "Phim Ba Người Remix (Bản Hot TikTok)"
+        ]
+    },
+    "background": {
+        "type": "image",
+        "url": "https:\/\/sf-static.upanhlaylink.com\/img\/image_20260325dfb963723fc036a212237025f8df9876.jpg",
+        "mobile_url": "\/uploads\/background\/mobile_1781395817_9028.jpg"
+    },
+    "footer_text": "@luanori",
+    "site_info": {
+        "site_name": "Home | Me Profile",
+        "site_title": "LuanOri Profile",
+        "site_description": "LuanOri",
+        "site_keywords": "LuanOri",
+        "footer_text": "㉿ klnxpluanori",
+        "brand_first": "㉿ KLNXP",
+        "brand_second": "LUANORI"
+    },
+    "sidebar_menu": [
+        {
+            "title": "Home",
+            "icon": "fa-solid fa-home",
+            "url": "\/"
+        },
+        {
+            "title": "Bot Key Hack",
+            "icon": "fa-brands fa-telegram",
+            "url": "https:\/\/t.me\/LuanOri04"
+        }
+    ]
+}
